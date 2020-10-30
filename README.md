@@ -1,2 +1,2 @@
 #  Treino de Front-end
-repositório para o treino de HTML5, CSS3 e JS
+Repositório para o treino de HTML5, CSS3 e JS
